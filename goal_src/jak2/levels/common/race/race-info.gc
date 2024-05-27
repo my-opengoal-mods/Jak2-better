@@ -22,7 +22,7 @@
       :player-intro-pos (new 'static 'vector :x 242892.8 :y 46284.8 :z -2453913.5 :w 1.0)
       :flags (race-info-flags borrow show-tutorial)
       :score #xd
-      :lap-count 5
+      :lap-count 1
       :racer-count 8
       :turbo-pad-count 12
       :decision-point-count 6
@@ -82,7 +82,7 @@
       :player-intro-pos (new 'static 'vector :x -347750.4 :y 46284.8 :z -2706227.2 :w 1.0)
       :flags (race-info-flags pidax borrow)
       :score #xc
-      :lap-count 5
+      :lap-count 1
       :racer-count 8
       :turbo-pad-count 12
       :map-index 1
@@ -143,7 +143,7 @@
       :player-intro-pos (new 'static 'vector :x 52715.52 :y 46284.8 :z -2615705.5 :w 1.0)
       :flags (race-info-flags borrow)
       :score #xb
-      :lap-count 5
+      :lap-count 1
       :racer-count 8
       :turbo-pad-count 15
       :map-index 2
@@ -241,7 +241,7 @@
       :player-intro-pos (new 'static 'vector :x 242892.8 :y 46284.8 :z -2453913.5 :w 1.0)
       :flags (race-info-flags retryable borrow bbush)
       :score #xd
-      :lap-count 5
+      :lap-count 1
       :racer-count 8
       :turbo-pad-count 12
       :decision-point-count 6
@@ -301,7 +301,7 @@
       :player-intro-pos (new 'static 'vector :x -347750.4 :y 46284.8 :z -2706227.2 :w 1.0)
       :flags (race-info-flags retryable borrow bbush)
       :score #xc
-      :lap-count 5
+      :lap-count 1
       :racer-count 8
       :turbo-pad-count 12
       :map-index 1
@@ -362,7 +362,7 @@
       :player-intro-pos (new 'static 'vector :x 52715.52 :y 46284.8 :z -2615705.5 :w 1.0)
       :flags (race-info-flags retryable borrow bbush)
       :score #xb
-      :lap-count 5
+      :lap-count 1
       :racer-count 8
       :turbo-pad-count 15
       :map-index 2
@@ -459,7 +459,7 @@
       :player-intro-pos (new 'static 'vector :x -209592.31 :y 42639.36 :z 5495972.0 :w 1.0)
       :flags (race-info-flags city-race retryable bbush)
       :score #xe
-      :lap-count 3
+      :lap-count 1
       :racer-count 2
       :turbo-pad-array #f
       :racer-array (new 'static 'inline-array race-racer-info 2
@@ -489,7 +489,7 @@
       :player-intro-pos (new 'static 'vector :x 242892.8 :y 46284.8 :z -2453913.5 :w 1.0)
       :flags (race-info-flags retryable borrow bbush)
       :score #x12
-      :lap-count 5
+      :lap-count 1
       :racer-count 8
       :turbo-pad-count 12
       :decision-point-count 5
@@ -548,7 +548,7 @@
       :player-intro-pos (new 'static 'vector :x -347750.4 :y 46284.8 :z -2706227.2 :w 1.0)
       :flags (race-info-flags retryable borrow bbush)
       :score #x11
-      :lap-count 5
+      :lap-count 1
       :racer-count 8
       :turbo-pad-count 12
       :map-index 1
@@ -608,7 +608,7 @@
       :player-intro-pos (new 'static 'vector :x 52715.52 :y 46284.8 :z -2615705.5 :w 1.0)
       :flags (race-info-flags retryable borrow bbush)
       :score #x10
-      :lap-count 5
+      :lap-count 1
       :racer-count 8
       :turbo-pad-count 15
       :map-index 2

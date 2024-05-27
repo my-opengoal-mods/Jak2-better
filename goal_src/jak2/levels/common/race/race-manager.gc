@@ -374,7 +374,7 @@
       (set! (-> this hud-position)
             (ppointer->handle (process-spawn hud-race-position :init hud-init-by-other :to s5-0))
             )
-      (if (< 1 (-> this info lap-count))
+      (if (< 0 (-> this info lap-count))
           (set! (-> this hud-lap-counter)
                 (ppointer->handle (process-spawn hud-race-lap-counter :init hud-init-by-other :to s5-0))
                 )
